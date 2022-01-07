@@ -1,0 +1,12 @@
+.manage_cakes {
+    flex: 4;
+}
+
+.form-container {
+    display: flex ;
+    padding-top: 30px;
+}
+
+.table-container {
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+.manage_users {
+    flex: 4;
+}
+
+.form-container {
+    display: flex ;
+    padding-bottom: 30px;
+}
+
+.table-container {
+    text-align: center;
+}

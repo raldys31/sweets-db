@@ -1,0 +1,108 @@
+.create_sweets {
+    flex: 4;
+}
+
+span {
+    font-size: 12px;
+    padding: 3px;
+    color: cadetblue;
+    display: none;
+}
+
+input:focus:invalid {
+    border: 1px solid cadetblue !important;
+}
+
+input:focus:invalid ~ span {
+    display: block;
+}
+
+span {
+    font-size: 12px;
+    padding: 3px;
+    color: cadetblue;
+    display: none;
+}
+
+input:focus:invalid {
+    border: 1px solid cadetblue !important;
+}
+
+input:focus:invalid ~ span {
+    display: block;
+}
+
+span {
+    font-size: 12px;
+    padding: 3px;
+    color: cadetblue;
+    display: none;
+}
+
+input:focus:invalid {
+    border: 1px solid cadetblue !important;
+}
+
+input:focus:invalid ~ span {
+    display: block;
+}
+
+span {
+    font-size: 12px;
+    padding: 3px;
+    color: cadetblue;
+    display: none;
+}
+
+input:focus:invalid {
+    border: 1px solid cadetblue !important;
+}
+
+input:focus:invalid ~ span {
+    display: block;
+}
+
+span {
+    font-size: 12px;
+    padding: 3px;
+    color: cadetblue;
+    display: none;
+}
+
+input:focus:invalid {
+    border: 1px solid cadetblue !important;
+}
+
+input:focus:invalid ~ span {
+    display: block;
+}
+
+span {
+    font-size: 12px;
+    padding: 3px;
+    color: cadetblue;
+    display: none;
+}
+
+input:focus:invalid {
+    border: 1px solid cadetblue !important;
+}
+
+input:focus:invalid ~ span {
+    display: block;
+}
+
+span {
+    font-size: 12px;
+    padding: 3px;
+    color: cadetblue;
+    display: none;
+}
+
+input:focus:invalid {
+    border: 1px solid cadetblue !important;
+}
+
+input:focus:invalid ~ span {
+    display: block;
+}
