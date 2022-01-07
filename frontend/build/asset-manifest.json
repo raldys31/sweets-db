@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sweets-db/static/css/main.fe32fa52.css",
+    "main.js": "/sweets-db/static/js/main.c820e144.js",
+    "static/media/SweetsDB.png": "/sweets-db/static/media/SweetsDB.1aa02490528515c86d9f.png",
+    "static/media/ManageUser.png": "/sweets-db/static/media/ManageUser.75dfbbf9050adf955924.png",
+    "static/media/CreateSweet.png": "/sweets-db/static/media/CreateSweet.03cf76a9c7ccc2a7fd7c.png",
+    "static/media/miArcoiris.jpg": "/sweets-db/static/media/miArcoiris.5ad914bf700e24e44c16.jpg",
+    "static/media/Sweet.jpg": "/sweets-db/static/media/Sweet.5529c9cefd8784346f8f.jpg",
+    "static/media/Cake.png": "/sweets-db/static/media/Cake.869b21066fe90565302f.png",
+    "static/media/ActivateUser.png": "/sweets-db/static/media/ActivateUser.ff3686047d7dd45139f1.png",
+    "static/media/CreateCakes.png": "/sweets-db/static/media/CreateCakes.8c56a46d292a3706d05b.png",
+    "static/media/CreateUser.png": "/sweets-db/static/media/CreateUser.2d9d030bc98bd9c9463e.png",
+    "static/media/UndeliveredOrder.png": "/sweets-db/static/media/UndeliveredOrder.ab63ff2af5ebc6552071.png",
+    "static/media/DeliveredOrder.png": "/sweets-db/static/media/DeliveredOrder.87a7923d231b75dcb618.png",
+    "static/media/CreateOrder.png": "/sweets-db/static/media/CreateOrder.ce7099601d2c0aa7e1c0.png",
+    "index.html": "/sweets-db/index.html",
+    "main.fe32fa52.css.map": "/sweets-db/static/css/main.fe32fa52.css.map",
+    "main.c820e144.js.map": "/sweets-db/static/js/main.c820e144.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe32fa52.css",
+    "static/js/main.c820e144.js"
+  ]
+}
